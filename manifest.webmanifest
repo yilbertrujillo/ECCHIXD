@@ -1,0 +1,12 @@
+{
+  "name": "ECCHIXD",
+  "short_name": "ECCHIXD",
+  "id": "com.YILBERPUNK.ECCHIXD",
+  "description": "es una pequeña aplicacion web, es una pequeña pagina web.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
